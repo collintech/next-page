@@ -1,4 +1,4 @@
-import './global.css'
+import '../styles/global.css'
 import { Kanit } from 'next/font/google'
 
 const kanit = Kanit({ weight: ['200', '400', '600', '800'], subsets: ['latin'] })
